@@ -3,3 +3,7 @@
 ||mail.ru^
 ||max.ru^
 ||ok.ru^
+||vkvideo.ru^
+||sferum.ru^
+||vkplay.ru^
+||tamtam.chat^
