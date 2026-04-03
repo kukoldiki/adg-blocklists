@@ -8,3 +8,5 @@
 ||vkplay.ru^
 ||tamtam.chat^
 log.api-maps.yandex.ru
+||rutube.ru^
+||gosuslugi.ru^
