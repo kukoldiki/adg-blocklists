@@ -10,3 +10,4 @@
 log.api-maps.yandex.ru
 ||rutube.ru^
 ||gosuslugi.ru^
+||rustore.ru^
