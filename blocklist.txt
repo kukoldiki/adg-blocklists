@@ -11,3 +11,5 @@ log.api-maps.yandex.ru
 ||rutube.ru^
 ||gosuslugi.ru^
 ||rustore.ru^
+tigr1234566.github.io
+rezvorck.github.io
